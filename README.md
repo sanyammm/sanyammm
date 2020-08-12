@@ -1,6 +1,6 @@
 # Hey there, I'm Sanyam 👋🏾💻 
 
-I am currently a second-year Computer Science Engineering student who likes solving problems in creative ways and I've learned the importance of applying classical strategies to modern-day projects.
+>I am currently a second-year Computer Science Engineering student who likes solving problems in creative ways and I've learned the importance of applying classical strategies to modern-day projects.
 
 Passion for Innovation, Web-Development, and UI/UX. 
 
