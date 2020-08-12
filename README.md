@@ -1,5 +1,8 @@
 # Hi, I'am Sanyam :octocat:
+
+
 ![](image/red.png)
+
 
 >I am currently a second-year Computer Science Engineering student who likes solving problems in creative ways and I've learned the importance of applying classical strategies to modern-day projects.
 
